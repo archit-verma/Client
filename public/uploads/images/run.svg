@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="53.409px" height="53.355px" viewBox="0 0 53.409 53.355" enable-background="new 0 0 53.409 53.355"
+	 xml:space="preserve">
+<g>
+	<circle fill="none" stroke="#0C5887" stroke-width="3" stroke-miterlimit="10" cx="26.705" cy="26.677" r="24.333"/>
+	<g>
+		<circle fill="#0C5887" cx="22.568" cy="13.7" r="3.2"/>
+		<path fill="#0C5887" d="M40.691,30.625c-3.355,1.962-5.368-0.917-6.884-3.688c-0.066-0.267-0.164-0.537-0.304-0.811
+			c-1.174-2.283-2.398-4.542-3.68-6.767c2.503-0.799,4.792-0.069,6.592,2.451c1.464,2.051,4.888,0.084,3.407-1.991
+			c-3.484-4.879-8.678-6.09-13.879-3.002c-0.216,0.128-1.193,0.666-1.413,0.797c-3.233,1.919-6.237,1.555-8.481-1.587
+			c-1.465-2.051-4.888-0.084-3.406,1.991c2.863,4.009,6.882,5.536,11.11,4.24c1.327,2.279,2.587,4.598,3.797,6.942
+			c-1.789,0.915-4.971,2.642-6.005,4.463c-0.926,1.575-1.645,3.238-2.394,4.888c-0.883-0.078-1.683,0.249-2.024,0.926
+			c-0.487,0.969,0.145,2.272,1.412,2.909c0.343,0.172,0.696,0.273,1.04,0.317c0.864,0.317,1.916,0.117,2.432-0.95
+			c0.983-2.032,1.995-5.022,3.344-6.372c1.786-1.554,3.831-2.814,6.07-3.595c0.11-0.038,0.211-0.084,0.306-0.135
+			c2.175,2.76,5.034,4.527,8.408,3.808c0.27,0.768,0.833,1.324,1.539,1.395c1.08,0.109,2.07-0.947,2.212-2.359
+			c0.041-0.41-0.001-0.8-0.097-1.156C44.435,31.7,42.642,29.485,40.691,30.625z"/>
+	</g>
+</g>
+</svg>

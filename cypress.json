@@ -1,0 +1,23 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "env": {
+    "wrongusername": "worng Username",
+    "wrongpassword": "worng password",
+    "correctusename": "uvin",
+    "correctpassword": "1",
+    "newAthleteusername": "TestAthlete",
+    "newAthletefirstname": "TestAthlete firstname",
+    "newAthletelastname": "TestAthlete lastname",
+    "newAthletedob": "1967-05-10",
+    "newAthletephone": "0406234876",
+    "newAthleteemail": "newathlete@email.com",
+    "newAthletepassword": "newathletepassword",
+    "newCoachusername": "TestCoach",
+    "newCoachfirstname": "TestCoach firstname",
+    "newCoachlastname": "TestCoach lastname",
+    "newCoachdob": "1967-05-10",
+    "newCoachphone": "0406234876",
+    "newCoachemail": "newCoach@email.com",
+    "newCoachpassword": "newCoachpassword"
+  }
+}
